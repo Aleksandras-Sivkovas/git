@@ -1,5 +1,5 @@
  export class A{
-   first(labas){
+   second(labas){
      return 0;
    }
 
