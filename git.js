@@ -1,9 +1,9 @@
  export class A{
-   first(labas){
-     return 0;
+   first(labas,rytas,taip){
+     return 1;
    }
 
-   one(labas){
+   one(labas,gal){
      return null;
    }
  }
