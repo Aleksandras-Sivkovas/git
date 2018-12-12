@@ -1,0 +1,1 @@
+export const taip = 100;
