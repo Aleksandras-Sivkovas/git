@@ -10,4 +10,8 @@
    two(taip){
      return taip;
    }
+
+   thre(){
+     return null;
+   }
  }
