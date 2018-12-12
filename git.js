@@ -11,11 +11,15 @@
      return taip;
    }
 
-   thre(){
+   three(){
      return null;
    }
 
+   four(){
+    return 10;
+  }
+
    five(){
-     
    }
+     
  }
