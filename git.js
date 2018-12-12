@@ -4,6 +4,6 @@
    }
 
    one(labas){
-     return null;
+     return 0;
    }
  }
