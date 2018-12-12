@@ -6,4 +6,8 @@
    one(labas){
      return 0;
    }
+
+   two(taip){
+     return taip;
+   }
  }
